@@ -1,2 +1,3 @@
 # Server-Nuker
-Nukes Servers DUH
+![Screenshot](picturess.png)
+#  Nukes Servers DUH
